@@ -1,0 +1,6 @@
+spacy
+requests
+spacytextblob
+pandas
+jupyterlab
+numpy
