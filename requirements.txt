@@ -1,6 +1,6 @@
-spacy
+# spacy
 requests
-spacytextblob
+# spacytextblob
 pandas
 jupyterlab
 numpy
